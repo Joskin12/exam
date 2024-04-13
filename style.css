@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 170px;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    gap: 32px;
+    list-style-type: none;
+
+    
+}
+
+
+.box  {
+    border-radius:20px ;
+    border: 2px solid #DE2E54;
+    padding: 12px 24px;
+ 
+
+}
+
+.box a{
+    text-decoration: none;
+} 
+
+
+.container{
+    width: 100%;
+    height: 533px;
+    background-image: url("./image\ 4\ \(6\).png");
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 170;
+    padding-top: 50px;
+}
+
+
+.text button{
+    padding: 12px 24px;
+    background: #de2e54cc;
+    border-radius: 8px;
+    border: none;
+    color: #fff;
+    margin-top: 50px;
+   
+}
+
+.text h1{
+    font-size: 36px;
+    padding: 0 170px;
+
+    font-weight: 700;
+    color: #fff;
+}
+
+.box1{
+    text-align: center;
+}
+
+.box2{
+    padding: 127px 288px;
+    display: flex;
+    gap: 64px;
+}
+
+.box4{
+    padding: 127px 288px;
+    display: flex;
+    gap: 64px;
+}
+
+.box5{
+    display: flex;
+    justify-content: space-between;
+    gap: 62px;
+    padding:  0  164px;
+}
+
+
+
+.data{
+    display: flex;
+    flex-direction: column;
+    width: 540px;
+    padding: 28px 40px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+
+.fff{
+    display: flex;
+    background: #0EB4C1;
+    gap: 60px;
+
+   
+    padding: 112px  160px;
+}
+
+.data input{
+    width: 100%;
+    padding: 8px 32px;
+    color: #3d3b48;
+    border: 1px solid #5e54a4;
+    border-radius: 10px;
+    outline: none;
+    margin-top: 14px;
+}
+
+.data button{
+    width: 100%;
+    padding: 8px  0;
+    background-color: #fff;
+    background: #38cc8b;
+    border: none;
+    margin-top: 14px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.foot{
+    background: #000;
+    display: flex;
+    justify-content: space-between;
+    gap: 32px;
+    list-style-type: none;
+}
+
+.nav1{
+    
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    background: #000;
+    display: flex;
+    justify-content: space-between;
+    gap: 32px;
+    list-style-type: none;
+}
+
+
+.ddd{
+    color: #fff;
+}
+
+.ggg{
+    color: #fff;
+}
+
+.hhh{
+    color: #fff;
+}
+
+
+.jjj{
+    color: #fff;
+}
+
+.kkk{
+    color: #fff;
+}
